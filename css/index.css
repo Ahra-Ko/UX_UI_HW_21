@@ -1,0 +1,170 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+ }
+  
+ .nav {
+    font-size: 16px;
+    color: #333;
+ }
+
+.self-intro {
+    height: 500px;
+    background-image: url(../images/Hero_revised.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #fae1dd;
+}
+
+.greeting {
+
+    width: 550px;
+    padding-top: 80px;
+    padding-left: 40px;
+}
+
+.greeting h2 {
+    font-size: 25px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text {
+    width: 550px;
+    padding-top: 30px;
+    padding-left: 40px;
+
+}
+
+.text h4 {
+    font-size: 16px;
+    padding-top: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+ }
+  
+ footer li {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+ }
+  
+ .FooterTitle {
+    font-weight: 700;
+ }
+ .linkedin {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    margin-left: 48.5%;
+    background-image:url(../images/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    position: relative;
+ }
+  
+ .instagram {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    margin-left: 48.5%;
+    background-image:url(../images/Glossy-Instagram-logo-PNG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    position: relative;
+ }
+
+ .skills {
+     display: flex;
+     height: 450px;
+     margin-top: 30px;
+     margin-left: 10%;
+ }
+
+ .skill1 {
+     width: 30%;
+     margin-right: 20px;
+     border: 1px groove #e5e5e5;
+
+ }
+
+ .skill2 {
+     width: 30%;
+     margin-right: 20px;
+     border: 1px groove #e5e5e5;
+
+ }
+
+ .skill3 {
+     width: 30%;
+     border: 1px groove #e5e5e5;
+
+ }
+
+ .skill1 h2 {
+     font-size: 20px;
+     padding-left: 20px;
+     padding-top: 10%;
+     padding-bottom: 10%;
+     font-weight: 600;
+ }
+
+ .skill1 h4 {
+     font-size: 16px;
+     padding-left: 22px;
+     padding-top: 10px;
+ }
+
+ .skill2 h2 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-weight: 600;
+}
+
+.skill2 h4 {
+    font-size: 16px;
+    padding-left: 22px;
+    padding-top: 10px;
+}
+
+.skill3 h2 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-weight: 600;
+}
+
+.skill3 h4 {
+    font-size: 16px;
+    padding-left: 22px;
+    padding-top: 10px;
+}
+
+.resume {
+    margin-top: 50px;
+    align-items: center;
+}
+
+.buttonResume {
+    margin-left: 42%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
